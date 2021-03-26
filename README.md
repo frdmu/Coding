@@ -12,7 +12,7 @@ LeetCode
 |---|---|---|
 |1| [Array](https://github.com/frdmu/LeetCode/tree/master/Array) | 2 |
 |2| [Backtracing](https://github.com/frdmu/LeetCode/tree/master/Backtracing) | 2 | 
-|3| [DP](https://github.com/frdmu/LeetCode/tree/master/DP) | 6 | 
+|3| [DP](https://github.com/frdmu/LeetCode/tree/master/DP) | 7 | 
 |4| [Design](https://github.com/frdmu/LeetCode/tree/master/Design) | 1 |
 |5| [Math](https://github.com/frdmu/LeetCode/tree/master/Math) | 2 |
 |6| [Sort](https://github.com/frdmu/LeetCode/tree/master/Sort) | 1 |
@@ -22,4 +22,4 @@ LeetCode
 |10|[String](https://github.com/frdmu/LeetCode/tree/master/string)|2|
 |11|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/two%20pointers)|1|
 |12|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)|1|
-|Sum|:point_right::point_right::point_right::point_right:|25:wave:|
+|Sum|:point_right::point_right::point_right::point_right:|26:wave:|
