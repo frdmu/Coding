@@ -12,7 +12,7 @@ LeetCode
 ### The number of various types of questions
 | # | Type | Quantity |
 |---|---|---|
-|1| [Array](https://github.com/frdmu/LeetCode/tree/master/Array) | 4 |
+|1| [Array](https://github.com/frdmu/LeetCode/tree/master/Array) | 5 |
 |2| [Backtracing](https://github.com/frdmu/LeetCode/tree/master/Backtracing) | 2 | 
 |3| [DP](https://github.com/frdmu/LeetCode/tree/master/DP) | 7 | 
 |4| [Design](https://github.com/frdmu/LeetCode/tree/master/Design) | 1 |
@@ -24,4 +24,4 @@ LeetCode
 |10|[String](https://github.com/frdmu/LeetCode/tree/master/string)|4|
 |11|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/two%20pointers)|3|
 |12|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)|1|
-|Sum|:point_right::point_right::point_right::point_right:|35:wave:|
+|Sum|:point_right::point_right::point_right::point_right:|36:wave:|
