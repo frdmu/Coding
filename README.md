@@ -22,6 +22,6 @@ LeetCode
 |8| [Heap](https://github.com/frdmu/LeetCode/tree/master/heap) | 1 |
 |9|[Stack](https://github.com/frdmu/LeetCode/tree/master/stack)|5|
 |10|[String](https://github.com/frdmu/LeetCode/tree/master/string)|5|
-|11|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/two%20pointers)|3|
+|11|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/two%20pointers)|4|
 |12|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)|1|
-|Sum|:point_right::point_right::point_right::point_right:|38:wave:|
+|Sum|:point_right::point_right::point_right::point_right:|39:wave:|
