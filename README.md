@@ -8,10 +8,11 @@ LeetCode
 |2|string|string str.substr(int pos, int len)|get str's substr|\<string\>|
 |3|map|insert(x)|element traversal only via the iterator:\*it|\<map\>|
 |4|map|it = find(key)|judge key wheater stored in map|\<map\>|
+|5|vector|vec.push_back({1, 2, 3})|vector\<vector\<int\> \> vec|\<vector\>|
 ### The number of various types of questions
 | # | Type | Quantity |
 |---|---|---|
-|1| [Array](https://github.com/frdmu/LeetCode/tree/master/Array) | 3 |
+|1| [Array](https://github.com/frdmu/LeetCode/tree/master/Array) | 4 |
 |2| [Backtracing](https://github.com/frdmu/LeetCode/tree/master/Backtracing) | 2 | 
 |3| [DP](https://github.com/frdmu/LeetCode/tree/master/DP) | 7 | 
 |4| [Design](https://github.com/frdmu/LeetCode/tree/master/Design) | 1 |
@@ -23,4 +24,4 @@ LeetCode
 |10|[String](https://github.com/frdmu/LeetCode/tree/master/string)|4|
 |11|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/two%20pointers)|3|
 |12|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)|1|
-|Sum|:point_right::point_right::point_right::point_right:|34:wave:|
+|Sum|:point_right::point_right::point_right::point_right:|35:wave:|
