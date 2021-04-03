@@ -23,6 +23,6 @@ LeetCode
 |9|[Stack](https://github.com/frdmu/LeetCode/tree/master/Stack)|5||
 |10|[String](https://github.com/frdmu/LeetCode/tree/master/String)| 5 ||
 |11| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 2 ||
-|12|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|6|sorted array|
+|12|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|7|sorted array|
 |13|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
-|Sum|:point_right::point_right::point_right::point_right:|42:wave:||
+|Sum|:point_right::point_right::point_right::point_right:|43:wave:||
