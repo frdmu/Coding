@@ -10,19 +10,19 @@ LeetCode
 |4|map|it = find(key)|judge key wheater stored in map|\<map\>|
 |5|vector|vec.push_back({1, 2, 3})|vector\<vector\<int\> \> vec|\<vector\>|
 ### The number of various types of questions
-| # | Type | Quantity |
-|---|---|---|
-|1| [Array](https://github.com/frdmu/LeetCode/tree/master/Array) | 6 |
-|2| [Backtracing](https://github.com/frdmu/LeetCode/tree/master/Backtracing) | 2 | 
-|3| [Design](https://github.com/frdmu/LeetCode/tree/master/Design) | 1 |
-|4| [DP](https://github.com/frdmu/LeetCode/tree/master/DP) | 7 | 
-|5| [Heap](https://github.com/frdmu/LeetCode/tree/master/heap) | 1 |
-|6|[List](https://github.com/frdmu/LeetCode/tree/master/List)| 1 |
-|7| [Math](https://github.com/frdmu/LeetCode/tree/master/Math) | 4 |
-|8| [Sort](https://github.com/frdmu/LeetCode/tree/master/Sort) | 1 |
-|9|[Stack](https://github.com/frdmu/LeetCode/tree/master/Stack)|5|
-|10|[String](https://github.com/frdmu/LeetCode/tree/master/String)| 5 |
-|11| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 2 |
-|12|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|5|
-|13|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 |
-|Sum|:point_right::point_right::point_right::point_right:|41:wave:|
+| # | Type | Quantity |Feature|
+|---|---|---|---|
+|1| [Array](https://github.com/frdmu/LeetCode/tree/master/Array) | 6 ||
+|2| [Backtracing](https://github.com/frdmu/LeetCode/tree/master/Backtracing) | 2 || 
+|3| [Design](https://github.com/frdmu/LeetCode/tree/master/Design) | 1 ||
+|4| [DP](https://github.com/frdmu/LeetCode/tree/master/DP) | 7 | |
+|5| [Heap](https://github.com/frdmu/LeetCode/tree/master/heap) | 1 ||
+|6|[List](https://github.com/frdmu/LeetCode/tree/master/List)| 1 ||
+|7| [Math](https://github.com/frdmu/LeetCode/tree/master/Math) | 4| |
+|8| [Sort](https://github.com/frdmu/LeetCode/tree/master/Sort) | 1| |
+|9|[Stack](https://github.com/frdmu/LeetCode/tree/master/Stack)|5||
+|10|[String](https://github.com/frdmu/LeetCode/tree/master/String)| 5 ||
+|11| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 2 ||
+|12|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|6|sorted array|
+|13|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
+|Sum|:point_right::point_right::point_right::point_right:|42:wave:||
