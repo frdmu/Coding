@@ -14,14 +14,15 @@ LeetCode
 |---|---|---|
 |1| [Array](https://github.com/frdmu/LeetCode/tree/master/Array) | 6 |
 |2| [Backtracing](https://github.com/frdmu/LeetCode/tree/master/Backtracing) | 2 | 
-|3| [DP](https://github.com/frdmu/LeetCode/tree/master/DP) | 7 | 
-|4| [Design](https://github.com/frdmu/LeetCode/tree/master/Design) | 1 |
-|5| [Math](https://github.com/frdmu/LeetCode/tree/master/Math) | 4 |
-|6| [Sort](https://github.com/frdmu/LeetCode/tree/master/Sort) | 1 |
-|7| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 2 |
-|8| [Heap](https://github.com/frdmu/LeetCode/tree/master/heap) | 1 |
+|3| [Design](https://github.com/frdmu/LeetCode/tree/master/Design) | 1 |
+|4| [DP](https://github.com/frdmu/LeetCode/tree/master/DP) | 7 | 
+|5| [Heap](https://github.com/frdmu/LeetCode/tree/master/heap) | 1 |
+|6|[List](https://github.com/frdmu/LeetCode/tree/master/List)| 1 |
+|7| [Math](https://github.com/frdmu/LeetCode/tree/master/Math) | 4 |
+|8| [Sort](https://github.com/frdmu/LeetCode/tree/master/Sort) | 1 |
 |9|[Stack](https://github.com/frdmu/LeetCode/tree/master/stack)|5|
-|10|[String](https://github.com/frdmu/LeetCode/tree/master/string)|5|
-|11|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/two%20pointers)|4|
-|12|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)|1|
-|Sum|:point_right::point_right::point_right::point_right:|39:wave:|
+|10|[String](https://github.com/frdmu/LeetCode/tree/master/string)| 5 |
+|11| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 2 |
+|12|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/two%20pointers)|4|
+|13|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 |
+|Sum|:point_right::point_right::point_right::point_right:|40:wave:|
