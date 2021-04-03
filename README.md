@@ -20,9 +20,9 @@ LeetCode
 |6|[List](https://github.com/frdmu/LeetCode/tree/master/List)| 1 |
 |7| [Math](https://github.com/frdmu/LeetCode/tree/master/Math) | 4 |
 |8| [Sort](https://github.com/frdmu/LeetCode/tree/master/Sort) | 1 |
-|9|[Stack](https://github.com/frdmu/LeetCode/tree/master/stack)|5|
-|10|[String](https://github.com/frdmu/LeetCode/tree/master/string)| 5 |
+|9|[Stack](https://github.com/frdmu/LeetCode/tree/master/Stack)|5|
+|10|[String](https://github.com/frdmu/LeetCode/tree/master/String)| 5 |
 |11| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 2 |
-|12|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/two%20pointers)|4|
+|12|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|5|
 |13|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 |
-|Sum|:point_right::point_right::point_right::point_right:|40:wave:|
+|Sum|:point_right::point_right::point_right::point_right:|41:wave:|
