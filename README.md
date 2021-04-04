@@ -22,10 +22,10 @@ LeetCode
 |8| [Sort](https://github.com/frdmu/LeetCode/tree/master/Sort) | 2| |
 |9|[Stack](https://github.com/frdmu/LeetCode/tree/master/Stack)|5||
 |10|[String](https://github.com/frdmu/LeetCode/tree/master/String)| 5 ||
-|11| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 3 ||
+|11| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 4 ||
 |12|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|7|sorted array|
 |13|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
-|Sum|:point_right::point_right::point_right::point_right:|46:wave:||
+|Sum|:point_right::point_right::point_right::point_right:|47:wave:||
 
 ### Useful template
 - [Merge sort](https://github.com/frdmu/LeetCode/tree/master/Template)
