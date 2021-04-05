@@ -15,17 +15,18 @@ LeetCode
 |1| [Array](https://github.com/frdmu/LeetCode/tree/master/Array) | 6 ||
 |2| [Backtracing](https://github.com/frdmu/LeetCode/tree/master/Backtracing) | 2 || 
 |3| [Design](https://github.com/frdmu/LeetCode/tree/master/Design) | 1 ||
-|4| [DP](https://github.com/frdmu/LeetCode/tree/master/DP) | 7 | |
-|5| [Heap](https://github.com/frdmu/LeetCode/tree/master/heap) | 1 ||
-|6|[List](https://github.com/frdmu/LeetCode/tree/master/List)| 2 |new a null head node|
-|7| [Math](https://github.com/frdmu/LeetCode/tree/master/Math) | 4| |
-|8| [Sort](https://github.com/frdmu/LeetCode/tree/master/Sort) | 2| |
-|9|[Stack](https://github.com/frdmu/LeetCode/tree/master/Stack)|5||
-|10|[String](https://github.com/frdmu/LeetCode/tree/master/String)| 5 ||
-|11| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 5 ||
-|12|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|7|sorted array|
-|13|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
-|Sum|:point_right::point_right::point_right::point_right:|48:wave:||
+|4| [Divide_and_Conquer](https://github.com/frdmu/LeetCode/tree/master/Divide_and_Conquer) | 1 | |
+|5| [DP](https://github.com/frdmu/LeetCode/tree/master/DP) | 7 | |
+|6| [Heap](https://github.com/frdmu/LeetCode/tree/master/heap) | 1 ||
+|7|[List](https://github.com/frdmu/LeetCode/tree/master/List)| 2 |new a null head node|
+|8| [Math](https://github.com/frdmu/LeetCode/tree/master/Math) | 4| |
+|9| [Sort](https://github.com/frdmu/LeetCode/tree/master/Sort) | 2| |
+|10|[Stack](https://github.com/frdmu/LeetCode/tree/master/Stack)|5||
+|11|[String](https://github.com/frdmu/LeetCode/tree/master/String)| 5 ||
+|12| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 5 ||
+|13|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|7|sorted array|
+|14|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
+|Sum|:point_right::point_right::point_right::point_right:|49:wave:||
 
 ### Useful template
-- [Merge sort](https://github.com/frdmu/LeetCode/tree/master/Template)
+- [Divide&conquer: Merge_sort](https://github.com/frdmu/LeetCode/tree/master/Template)
