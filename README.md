@@ -9,6 +9,7 @@ LeetCode
 |3|map|insert(x)|element traversal only via the iterator:\*it|\<map\>|
 |4|map|it = find(key)|judge key wheater stored in map|\<map\>|
 |5|vector|vec.push_back({1, 2, 3})|vector\<vector\<int\> \> vec|\<vector\>|
+|6|vector|vec.assign(a.begin(), a.begin()+k)|copy data from a to vec|\<vector\>|
 ### The number of various types of questions
 | # | Type | Quantity |Feature|
 |---|---|---|---|
