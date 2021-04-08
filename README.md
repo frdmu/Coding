@@ -34,3 +34,8 @@ LeetCode
 ### Useful template
 - [Divide&conquer: Merge_sort, Qucik_sort](https://github.com/frdmu/LeetCode/tree/master/Template)
 - [Backtracing: dfs](https://github.com/frdmu/LeetCode/tree/master/Template)
+
+### Hard understand
+|#|Problem|
+|--|--|
+|1|[Array](https://github.com/frdmu/LeetCode/tree/master/Array):[31.Next Permutation](https://leetcode-cn.com/problems/next-permutation/)|
