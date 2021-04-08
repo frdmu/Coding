@@ -10,6 +10,7 @@ LeetCode
 |4|map|it = find(key)|judge key wheater stored in map|\<map\>|
 |5|vector|vec.push_back({1, 2, 3})|vector\<vector\<int\> \> vec|\<vector\>|
 |6|vector|vec.assign(a.begin(), a.begin()+k)|copy data from a to vec|\<vector\>|
+|7|vector|vec.emplace_back(ele)|similar to push_back(ele)|\<vector\>|
 ### The number of various types of questions
 | # | Type | Quantity |Feature|
 |---|---|---|---|
