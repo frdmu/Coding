@@ -14,7 +14,7 @@ LeetCode
 | # | Type | Quantity |Feature|
 |---|---|---|---|
 |1| [Array](https://github.com/frdmu/LeetCode/tree/master/Array) | 6 ||
-|2| [Backtracing](https://github.com/frdmu/LeetCode/tree/master/Backtracing) | 3 || 
+|2| [Backtracing](https://github.com/frdmu/LeetCode/tree/master/Backtracing) | 4 || 
 |3| [Design](https://github.com/frdmu/LeetCode/tree/master/Design) | 1 ||
 |4| [Divide_and_Conquer](https://github.com/frdmu/LeetCode/tree/master/Divide_and_Conquer) | 1 | |
 |5| [DP](https://github.com/frdmu/LeetCode/tree/master/DP) | 9 | |
@@ -27,7 +27,7 @@ LeetCode
 |12| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 5 ||
 |13|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|7|sorted array|
 |14|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
-|Sum|:point_right::point_right::point_right::point_right:|56:wave:||
+|Sum|:point_right::point_right::point_right::point_right:|57:wave:||
 
 ### Useful template
 - [Divide&conquer: Merge_sort, Qucik_sort](https://github.com/frdmu/LeetCode/tree/master/Template)
