@@ -1,3 +1,4 @@
+// ordered array
 two_binary(int arr[]) {
 	int n = arr.size();
 	int low = 0, high = n-1;
