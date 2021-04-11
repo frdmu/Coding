@@ -19,7 +19,7 @@ LeetCode
 |2| [Backtracing](https://github.com/frdmu/LeetCode/tree/master/Backtracing) | 4 || 
 |3| [Design](https://github.com/frdmu/LeetCode/tree/master/Design) | 1 ||
 |4| [Divide_and_Conquer](https://github.com/frdmu/LeetCode/tree/master/Divide_and_Conquer) | 1 | |
-|5| [DP](https://github.com/frdmu/LeetCode/tree/master/DP) | 9 | |
+|5| [DP](https://github.com/frdmu/LeetCode/tree/master/DP) | 10 | |
 |6| [Heap](https://github.com/frdmu/LeetCode/tree/master/heap) | 1 ||
 |7|[List](https://github.com/frdmu/LeetCode/tree/master/List)| 5 |new a null head node|
 |8| [Math](https://github.com/frdmu/LeetCode/tree/master/Math) | 7| |
@@ -30,7 +30,7 @@ LeetCode
 |13| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 5 ||
 |14|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|7|sorted array|
 |15|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
-|Sum|:point_right::point_right::point_right::point_right:|64:wave:||
+|Sum|:point_right::point_right::point_right::point_right:|65:wave:||
 
 ### Useful template
 - [Divide&conquer: Merge_sort, Qucik_sort](https://github.com/frdmu/LeetCode/tree/master/Template)
@@ -41,3 +41,4 @@ LeetCode
 |#|Problem|
 |--|--|
 |1|[Array](https://github.com/frdmu/LeetCode/tree/master/Array):[31.Next Permutation](https://leetcode-cn.com/problems/next-permutation/)|
+|2|[DP](https://github.com/frdmu/LeetCode/tree/master/DP):[264.Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)| 
