@@ -28,9 +28,9 @@ LeetCode
 |11|[Stack](https://github.com/frdmu/LeetCode/tree/master/Stack)|5||
 |12|[String](https://github.com/frdmu/LeetCode/tree/master/String)| 5 ||
 |13| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 5 ||
-|14|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|7|sorted array|
+|14|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|8|sorted array, quick and slow pointer|
 |15|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
-|Sum|:point_right::point_right::point_right::point_right:|69:wave:||
+|Sum|:point_right::point_right::point_right::point_right:|70:wave:||
 
 ### Useful template
 - [Divide&conquer: Merge_sort, Qucik_sort](https://github.com/frdmu/LeetCode/tree/master/Template)
