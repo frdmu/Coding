@@ -30,7 +30,7 @@ LeetCode
 |13| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 5 ||
 |14|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|8|sorted array, quick and slow pointer|
 |15|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
-|Sum|:point_right::point_right::point_right::point_right:|75wave:||
+|Sum|:point_right::point_right::point_right::point_right:|75:wave:||
 
 ### Useful template
 - [Divide&conquer: Merge_sort, Qucik_sort](https://github.com/frdmu/LeetCode/tree/master/Template)
