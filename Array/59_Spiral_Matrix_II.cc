@@ -25,3 +25,38 @@ public:
         return ans;
     }
 };
+
+class Solution {
+public:
+    vector<vector<int>> generateMatrix(int n) {
+        vector<vector<int> > ans(n, vector<int>(n, 0));
+        int loop = n >> 1;
+        int startx = 0, starty = 0;
+        int i, j, offset = 1;
+        int count = 1;
+        int mid = n >> 1;
+        while (loop--) {
+            for (j = starty; j < starty + n - offset; j++) {
+                ans[startx][j] = count++;
+            }
+            for (i = startx; i < startx + n - offset; i++) {
+                ans[i][j] = count++;
+            }
+            for (; j > starty; j--) {
+                ans[i][j] = count++;
+            }
+            for (; i > startx; i--) {
+                ans[i][j] = count++;
+            }
+            startx++;
+            starty++;
+
+            offset += 2;
+        }
+        if (n % 2 == 1) {
+            ans[mid][mid] = count++;
+        }
+
+        return ans;
+    }
+};
