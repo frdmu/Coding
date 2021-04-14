@@ -15,7 +15,7 @@ LeetCode
 ### The number of various types of questions
 | # | Type | Quantity |Feature|
 |---|---|---|---|
-|1| [Array](https://github.com/frdmu/LeetCode/tree/master/Array) | 9 |slicing window|
+|1| [Array](https://github.com/frdmu/LeetCode/tree/master/Array) | 9 |binary search, slicing window, fast and slow pointer, simulate|
 |2| [Backtracing](https://github.com/frdmu/LeetCode/tree/master/Backtracing) | 6 || 
 |3| [Design](https://github.com/frdmu/LeetCode/tree/master/Design) | 1 ||
 |4| [Divide_and_Conquer](https://github.com/frdmu/LeetCode/tree/master/Divide_and_Conquer) | 2 | |
