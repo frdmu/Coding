@@ -15,7 +15,7 @@ LeetCode
 ### The number of various types of questions
 | # | Type | Quantity |Feature|
 |---|---|---|---|
-|1| [Array](https://github.com/frdmu/LeetCode/tree/master/Array) | 7 ||
+|1| [Array](https://github.com/frdmu/LeetCode/tree/master/Array) | 8 ||
 |2| [Backtracing](https://github.com/frdmu/LeetCode/tree/master/Backtracing) | 6 || 
 |3| [Design](https://github.com/frdmu/LeetCode/tree/master/Design) | 1 ||
 |4| [Divide_and_Conquer](https://github.com/frdmu/LeetCode/tree/master/Divide_and_Conquer) | 2 | |
@@ -30,7 +30,7 @@ LeetCode
 |13| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 5 ||
 |14|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|8|sorted array, quick and slow pointer|
 |15|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
-|Sum|:point_right::point_right::point_right::point_right:|70:wave:||
+|Sum|:point_right::point_right::point_right::point_right:|71:wave:||
 
 ### Useful template
 - [Divide&conquer: Merge_sort, Qucik_sort](https://github.com/frdmu/LeetCode/tree/master/Template)
