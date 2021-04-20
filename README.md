@@ -20,17 +20,18 @@ LeetCode
 |3| [Design](https://github.com/frdmu/LeetCode/tree/master/Design) | 1 ||
 |4| [Divide_and_Conquer](https://github.com/frdmu/LeetCode/tree/master/Divide_and_Conquer) | 2 | |
 |5| [DP](https://github.com/frdmu/LeetCode/tree/master/DP) | 10 | |
-|6| [Heap](https://github.com/frdmu/LeetCode/tree/master/heap) | 1 ||
-|7|[List](https://github.com/frdmu/LeetCode/tree/master/List)| 8 |new a dummy head node|
-|8| [Math](https://github.com/frdmu/LeetCode/tree/master/Math) | 8| |
-|9| [Search](https://github.com/frdmu/LeetCode/tree/master/Search) | 4| |
-|10| [Sort](https://github.com/frdmu/LeetCode/tree/master/Sort) | 3| |
-|11|[Stack](https://github.com/frdmu/LeetCode/tree/master/Stack)|5||
-|12|[String](https://github.com/frdmu/LeetCode/tree/master/String)| 5 ||
-|13| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 5 ||
-|14|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|10|sorted array, fast and slow pointer|
+|6| [HashTable](https://github.com/frdmu/LeetCode/tree/master/HashTable)| 1 ||
+|7| [Heap](https://github.com/frdmu/LeetCode/tree/master/heap) | 1 ||
+|8| [List](https://github.com/frdmu/LeetCode/tree/master/List)| 8 |new a dummy head node|
+|9| [Math](https://github.com/frdmu/LeetCode/tree/master/Math) | 8| |
+|10| [Search](https://github.com/frdmu/LeetCode/tree/master/Search) | 4| |
+|11| [Sort](https://github.com/frdmu/LeetCode/tree/master/Sort) | 3| |
+|12|[Stack](https://github.com/frdmu/LeetCode/tree/master/Stack)|5||
+|13|[String](https://github.com/frdmu/LeetCode/tree/master/String)| 5 ||
+|14| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 5 ||
+|15|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|10|sorted array, fast and slow pointer|
 |15|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
-|Sum|:point_right::point_right::point_right::point_right:|78:wave:||
+|Sum|:point_right::point_right::point_right::point_right:|79:wave:||
 
 ### Useful template
 - [Divide&conquer: Merge_sort, Qucik_sort](https://github.com/frdmu/LeetCode/tree/master/Template)
