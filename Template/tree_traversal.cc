@@ -56,7 +56,31 @@ void postorder(TreeNode* root) {
 	postorder(root->right, ans);
 	visit(root->val);
 }
+void postorder(TreeNode* root) { // inorder, preorder
+	if (root == nullptr)
+		return;
 
+	stack<TreeNode*> stk;
+	stk.push(root);
+	while (!stk.empty()) {
+		TreeNode* tmp = stk.top();
+		stk.pop();
+		if (tmp) {// push
+			stk.push(tmp);
+			stk.push(NULL); // mid
+
+			if (tmp->right)
+				stk.push(tmp->right);// right
+
+			if (tmp->left)
+				stk.push(tmp->left); // left	
+		} else {// visit
+			TreeNode* tmp = stk.top();
+			stk.pop();
+			visit(tmp->val);	
+		}	
+	}
+}
 void levelorder(TreeNode* root) {
 	if (root == nullptr)
 		return;
