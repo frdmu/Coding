@@ -6,6 +6,22 @@ void preorder(TreeNode* root) {
 	preorder(root->left, ans);
 	preorder(root->right, ans);
 }
+void preorder(TreeNode* root) {
+	if (root == nullptr)
+		return;
+
+	stack<TreeNode*> stk;
+	stk.push(root);
+	while (!stk.empty()) {
+		TreeNode* tmp = stk.top();
+		stk.pop();
+		visit(tmp->val);
+		if (tmp->right)
+			stk.push(tmp->right);
+		if (tmp->left)
+			stk.push(tmp->left);	
+	}
+}
 void inorder(TreeNode* root) {
 	if (root == nullptr)
 	    return;
@@ -25,7 +41,7 @@ void postorder(TreeNode* root) {
 
 void levelorder(TreeNode* root) {
 	if (root == nullptr)
-		return {};
+		return;
 
 	queue<TreeNode*> q;
 	q.push(root);
