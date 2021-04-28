@@ -22,3 +22,20 @@ void postorder(TreeNode* root) {
 	postorder(root->right, ans);
 	visit(root->val);
 }
+
+void levelorder(TreeNode* root) {
+	if (root == nullptr)
+		return {};
+
+	queue<TreeNode*> q;
+	q.push(root);
+	while (!q.empty()) {
+		TreeNode* tmp = q.front();
+		q.pop();
+		visit(tmp->val);
+		if (tmp->left)
+			q.push(tmp->left);
+		if (tmp->right)
+			q.push(tmp->right);	
+	}
+}
