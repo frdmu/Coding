@@ -45,3 +45,6 @@ LeetCode
 |--|--|
 |1|[Array](https://github.com/frdmu/LeetCode/tree/master/Array):[31.Next Permutation](https://leetcode-cn.com/problems/next-permutation/)|
 |2|[DP](https://github.com/frdmu/LeetCode/tree/master/DP):[264.Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)| 
+
+### Refer
+https://github.com/youngyangyang04/leetcode-master
