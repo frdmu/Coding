@@ -21,3 +21,29 @@ public:
         return 1 + max(maxDepth(root->left), maxDepth(root->right));             
     }
 };
+
+class Solution {
+public:
+    int maxDepth(TreeNode* root) {
+        if (root == nullptr)
+            return 0;
+
+        int depth = 0;
+        queue<TreeNode*> q;
+        q.push(root);
+        while (!q.empty()) {
+            int len = q.size();
+            for (int i = 0; i < len; i++) {
+                TreeNode* tmp = q.front();
+                q.pop();
+                if (tmp->right)
+                    q.push(tmp->right);
+                if (tmp->left)
+                    q.push(tmp->left);
+            }
+            depth++;
+        }
+
+        return depth;
+    }
+};
