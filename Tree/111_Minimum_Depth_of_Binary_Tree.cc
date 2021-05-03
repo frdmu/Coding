@@ -31,4 +31,47 @@ public:
         return min_depth+1;
     }
 };
+// postorder 
+class Solution {
+public:
+    int minDepth(TreeNode* root) {
+        if (root == nullptr)
+            return 0;
+        int left = minDepth(root->left);
+        int right = minDepth(root->right);
+        if (left == 0)
+            return 1 + right;
+        if (right == 0)
+            return 1 + left;
+        return 1 + min(left, right);
+    }
+};
 
+// level order
+class Solution {
+public:
+    int minDepth(TreeNode* root) {
+        if (root == nullptr)
+            return 0;
+
+        int depth = 0;
+        queue<TreeNode*> q;
+        q.push(root);
+        while (!q.empty()) {
+            int len = q.size();
+            depth++;
+            for (int i = 0; i < len; i++) {
+                TreeNode* tmp = q.front();
+                q.pop();
+                if (tmp->left)
+                    q.push(tmp->left);
+                if (tmp->right)
+                    q.push(tmp->right);
+                if (!tmp->left && !tmp->right)
+                    return depth;
+            }
+        }
+
+        return depth;
+    }
+};
