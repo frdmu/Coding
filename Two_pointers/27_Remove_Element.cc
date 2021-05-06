@@ -3,13 +3,15 @@
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-        int i = 0;
         int n = nums.size(); 
-        for (int j = 0; j < n; j++) {
-            if (nums[j] != val) {
-                nums[i++] = nums[j];
+        int lowIndex = 0;
+        
+        for (int fastIndex = 0; fastIndex < n; fastIndex++) {
+            if (nums[fastIndex] != val) {
+                nums[lowIndex++] = nums[fastIndex];
             }
         }
-        return i;
+        
+        return lowIndex;
     }
 };
