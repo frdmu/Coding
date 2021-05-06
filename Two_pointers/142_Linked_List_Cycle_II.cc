@@ -34,3 +34,31 @@ public:
         return index1;
     }
 };
+
+class Solution {
+public:
+    ListNode *detectCycle(ListNode *head) {
+        if (head == nullptr || head->next == nullptr)
+            return nullptr;
+        
+        ListNode* slowPtr = head;
+        ListNode* fastPtr = head;
+        while (fastPtr && fastPtr->next) {
+            fastPtr = fastPtr->next->next;
+            slowPtr = slowPtr->next;
+            // there is a circle
+            if (slowPtr == fastPtr) { 
+                ListNode* index1 = head; 
+                ListNode* index2 = fastPtr;
+                while (index1 != index2) {
+                    index1 = index1->next;
+                    index2 = index2->next;
+                }
+                // get the first node 
+                return index1;             
+            } 
+        }
+        
+        return nullptr;
+    }
+};
