@@ -15,16 +15,14 @@ public:
     
     /** Removes the element on top of the stack and returns that element. */
     int pop() {
-        while (q.size() != 1) {
-            tmpq.push(q.front());
+        int size = q.size();
+        size--;
+        while (size--) {
+            q.push(q.front());
             q.pop();
         }
         int res = q.front();
         q.pop();
-        while (!tmpq.empty()) {
-            q.push(tmpq.front());
-            tmpq.pop();
-        }
         
         return res;
     }
