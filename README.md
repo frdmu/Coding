@@ -44,10 +44,12 @@ LeetCode
 - [Tree: traversal](https://github.com/frdmu/LeetCode/tree/master/Template)
 
 ### Hard understand
-|#|Problem|
-|--|--|
-|1|[Array](https://github.com/frdmu/LeetCode/tree/master/Array):[31.Next Permutation](https://leetcode-cn.com/problems/next-permutation/)|
-|2|[DP](https://github.com/frdmu/LeetCode/tree/master/DP):[264.Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/)| 
+|Problem|
+|--|
+|[31.Next Permutation(Array)](https://leetcode-cn.com/problems/next-permutation/)|
+|[264.Ugly Number II(DP)](https://leetcode-cn.com/problems/ugly-number-ii/)| 
+|[347.Top K Frequent Elements(Heap)](https://leetcode-cn.com/problems/top-k-frequent-elements/)|
+|[239. Sliding Window Maximum(Monotonous queue)](https://leetcode-cn.com/problems/sliding-window-maximum/)|
 
 ### Refer
 https://github.com/youngyangyang04/leetcode-master
