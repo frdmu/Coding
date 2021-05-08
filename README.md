@@ -7,6 +7,7 @@ LeetCode
 |string|int isdigit(char ch)|isdigit('2')| \<cstdio\> |
 |string|string substr(int pos, int len)|s.substr(0, 5))|\<string\>|
 |string|void resize(int n)|s.resize(n))|\<string\>|
+|string|int stoi("22")|string to int|\<string\>|
 |string|empty(), back(), push_back(), pop_back()|just like a stack|\<string\>|
 |map|insert(x)|element traversal only via the iterator:\*it|\<map\>|
 |map|iterator find(key)|mp.find(key)|\<map\>|
@@ -29,12 +30,12 @@ LeetCode
 |9| [Math](https://github.com/frdmu/LeetCode/tree/master/Math) | 8| |
 |10| [Search](https://github.com/frdmu/LeetCode/tree/master/Search) | 4| |
 |11| [Sort](https://github.com/frdmu/LeetCode/tree/master/Sort) | 3| |
-|12|[Stack](https://github.com/frdmu/LeetCode/tree/master/Stack)|6||
+|12|[Stack](https://github.com/frdmu/LeetCode/tree/master/Stack)|7||
 |13|[String](https://github.com/frdmu/LeetCode/tree/master/String)| 10 ||
 |14| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 11 ||
 |15|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|11|sorted array, fast and slow pointer|
 |16|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
-|Sum|:point_right::point_right::point_right::point_right:|97:wave:||
+|Sum|:point_right::point_right::point_right::point_right:|98:wave:||
 
 ### Useful template
 - [Divide&conquer: Merge_sort, Qucik_sort](https://github.com/frdmu/LeetCode/tree/master/Template)
