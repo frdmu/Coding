@@ -20,7 +20,7 @@ LeetCode
 | # | Type | Quantity |Feature|
 |---|---|---|---|
 |1| [Array](https://github.com/frdmu/LeetCode/tree/master/Array) | 9 |binary search, slicing window, fast and slow pointer, simulate|
-|2| [Backtracing](https://github.com/frdmu/LeetCode/tree/master/Backtracing) | 6 || 
+|2| [Backtracing](https://github.com/frdmu/LeetCode/tree/master/Backtracing) | 7 || 
 |3| [Design](https://github.com/frdmu/LeetCode/tree/master/Design) | 3 ||
 |4| [Divide_and_Conquer](https://github.com/frdmu/LeetCode/tree/master/Divide_and_Conquer) | 2 | |
 |5| [DP](https://github.com/frdmu/LeetCode/tree/master/DP) | 10 | |
@@ -32,10 +32,10 @@ LeetCode
 |11| [Sort](https://github.com/frdmu/LeetCode/tree/master/Sort) | 3| |
 |12|[Stack](https://github.com/frdmu/LeetCode/tree/master/Stack)|8||
 |13|[String](https://github.com/frdmu/LeetCode/tree/master/String)| 10 ||
-|14| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 11 ||
+|14| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 12 ||
 |15|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|11|sorted array, fast and slow pointer|
 |16|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
-|Sum|:point_right::point_right::point_right::point_right:|100:wave:||
+|Sum|:point_right::point_right::point_right::point_right:|102:wave:||
 
 ### Useful template
 - [Divide&conquer: Merge_sort, Qucik_sort](https://github.com/frdmu/LeetCode/tree/master/Template)
