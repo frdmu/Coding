@@ -15,16 +15,13 @@ public:
     TreeNode* traversal(vector<int> nums, int start, int end) {
         if (start == end) return nullptr;
         
-        int index; 
-        int max = -1;
-        for (int i = start; i < end; i++) {
-            if (nums[i] > max) {
-                max = nums[i];
+        int index = start; 
+        for (int i = start+1; i < end; i++) {
+            if (nums[i] > nums[index]) {
                 index = i;
             }
         }
-        TreeNode* root = new TreeNode(max);
-        if (end - start == 1) return root;
+        TreeNode* root = new TreeNode(nums[index]);
 
         root->left = traversal(nums, start, index); 
         root->right = traversal(nums, index+1, end);
