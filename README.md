@@ -32,10 +32,10 @@ LeetCode
 |11| [Sort](https://github.com/frdmu/LeetCode/tree/master/Sort) | 3| |
 |12|[Stack](https://github.com/frdmu/LeetCode/tree/master/Stack)|8||
 |13|[String](https://github.com/frdmu/LeetCode/tree/master/String)| 10 ||
-|14| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 28 ||
+|14| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 29 ||
 |15|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|11|sorted array, fast and slow pointer|
 |16|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
-|Sum|:point_right::point_right::point_right::point_right:|118:wave:||
+|Sum|:point_right::point_right::point_right::point_right:|119:wave:||
 
 ### Useful template
 - [Divide&conquer: Merge_sort, Qucik_sort](https://github.com/frdmu/LeetCode/tree/master/Template)
