@@ -33,3 +33,28 @@ public:
         return ans;
     }
 };
+
+class Solution {
+public:
+    string path;
+    vector<string> ans;
+    string mp[10] = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+    void backtracing(string digits, int startIndex) {
+        if (path.size() == digits.size()) {
+            ans.push_back(path);
+            return;
+        }
+       
+        string str = mp[digits[startIndex]-'0'];
+        for (int i = 0; i < str.size(); i++) {
+            path.push_back(str[i]);
+            backtracing(digits, startIndex+1); 
+            path.pop_back();      
+        }
+    }
+    vector<string> letterCombinations(string digits) {
+        if (digits.size() == 0) return {};
+        backtracing(digits, 0);
+        return ans;
+    }
+};
