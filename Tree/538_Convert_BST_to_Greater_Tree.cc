@@ -27,3 +27,34 @@ public:
         return root;
     }
 };
+
+class Solution {
+public:
+    int pre = 0;
+    void traversal(TreeNode* cur) {
+        stack<TreeNode*> stk;
+        if (cur)
+            stk.push(cur);
+        while (!stk.empty()) {
+            TreeNode* top = stk.top();
+            stk.pop();
+            if (top) {
+                if (top->left)
+                    stk.push(top->left);
+                stk.push(top);
+                stk.push(nullptr); 
+                if (top->right)
+                    stk.push(top->right);
+            } else {
+                TreeNode* top = stk.top();
+                stk.pop();
+                top->val += pre;
+                pre = top->val;
+            }
+        }
+    }
+    TreeNode* convertBST(TreeNode* root) {
+        traversal(root);
+        return root;
+    }
+};
