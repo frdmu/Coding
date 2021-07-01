@@ -25,3 +25,34 @@ public:
     }
     
 };
+// bfs
+class Solution {
+public:
+    int numWays(int n, vector<vector<int>>& relation, int k) {
+        vector<vector<int>> graph(n);
+        for (auto &edge: relation) {
+            int src = edge[0], end = edge[1];
+            graph[src].push_back(end);
+        }
+
+        queue<int> q;
+        q.push(0);
+        int step = 0, res = 0;
+        while (step <= k) {
+            int len = q.size();
+            for (int i = 0; i < len; i++) {
+                int tmp = q.front();
+                q.pop();
+                if (step == k && tmp == n-1) {
+                    res++;
+                }
+                for (auto to: graph[tmp]) {
+                   q.push(to);
+                }
+            }
+            step++;
+        }
+
+        return res;
+    }
+};
