@@ -22,21 +22,22 @@ LeetCode
 |1| [Array](https://github.com/frdmu/LeetCode/tree/master/Array) | 9 |binary search, slicing window, fast and slow pointer, simulate|
 |2| [Backtracing](https://github.com/frdmu/LeetCode/tree/master/Backtracing) | 17 || 
 |3| [Design](https://github.com/frdmu/LeetCode/tree/master/Design) | 3 ||
-|4| [Divide_and_Conquer](https://github.com/frdmu/LeetCode/tree/master/Divide_and_Conquer) | 2 | |
-|5| [DP](https://github.com/frdmu/LeetCode/tree/master/DP) | 10 | |
-|6| [Greedy_algorithm](https://github.com/frdmu/LeetCode/tree/master/Greedy_algorithm)| 8 ||
-|7| [HashTable](https://github.com/frdmu/LeetCode/tree/master/HashTable)| 4 ||
-|8| [Heap](https://github.com/frdmu/LeetCode/tree/master/heap) | 2 ||
-|9| [List](https://github.com/frdmu/LeetCode/tree/master/List)| 8 |new a dummy head node|
-|10| [Math](https://github.com/frdmu/LeetCode/tree/master/Math) | 8| |
-|11| [Search](https://github.com/frdmu/LeetCode/tree/master/Search) | 4| |
-|12| [Sort](https://github.com/frdmu/LeetCode/tree/master/Sort) | 3| |
-|13|[Stack](https://github.com/frdmu/LeetCode/tree/master/Stack)|8||
-|14|[String](https://github.com/frdmu/LeetCode/tree/master/String)| 10 ||
-|15| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 31 ||
-|16|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|11|sorted array, fast and slow pointer|
-|17|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
-|Sum|:point_right::point_right::point_right::point_right:|139:wave:||
+|4| [Dfs_Bfs](https://github.com/frdmu/LeetCode/tree/master/Dfs_Bfs) | 1 ||
+|5| [Divide_and_Conquer](https://github.com/frdmu/LeetCode/tree/master/Divide_and_Conquer) | 2 | |
+|6| [DP](https://github.com/frdmu/LeetCode/tree/master/DP) | 10 | |
+|7| [Greedy_algorithm](https://github.com/frdmu/LeetCode/tree/master/Greedy_algorithm)| 8 ||
+|8| [HashTable](https://github.com/frdmu/LeetCode/tree/master/HashTable)| 4 ||
+|9| [Heap](https://github.com/frdmu/LeetCode/tree/master/heap) | 2 ||
+|10| [List](https://github.com/frdmu/LeetCode/tree/master/List)| 8 |new a dummy head node|
+|11| [Math](https://github.com/frdmu/LeetCode/tree/master/Math) | 8| |
+|12| [Search](https://github.com/frdmu/LeetCode/tree/master/Search) | 4| |
+|13| [Sort](https://github.com/frdmu/LeetCode/tree/master/Sort) | 3| |
+|14|[Stack](https://github.com/frdmu/LeetCode/tree/master/Stack)|8||
+|15|[String](https://github.com/frdmu/LeetCode/tree/master/String)| 10 ||
+|16| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 31 ||
+|17|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|11|sorted array, fast and slow pointer|
+|18|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
+|Sum|:point_right::point_right::point_right::point_right:|140:wave:||
 
 ### Useful template
 - [Divide&conquer: Merge_sort, Qucik_sort](https://github.com/frdmu/LeetCode/tree/master/Template)

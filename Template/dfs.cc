@@ -5,10 +5,10 @@ dfs(vector<int>& tmp, vector<vector<int>>& ans, vector<int> nums) {
 		return;	
 	}
 	for (int i = 0; i < n; i++) {
-		if (satisfy some conditions) {	
-			tmp.push_back(nums[i]);
+	//	if (satisfy some conditions) {	
+	//		tmp.push_back(nums[i]);
 			dfs(tmp, ans, nums);
-			tmp.pop_back();
-		}
+	//		tmp.pop_back();
+	//	}
 	}
 }
