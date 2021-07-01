@@ -25,7 +25,7 @@ LeetCode
 |4| [Dfs_Bfs](https://github.com/frdmu/LeetCode/tree/master/Dfs_Bfs) | 1 ||
 |5| [Divide_and_Conquer](https://github.com/frdmu/LeetCode/tree/master/Divide_and_Conquer) | 2 | |
 |6| [DP](https://github.com/frdmu/LeetCode/tree/master/DP) | 10 | |
-|7| [Greedy_algorithm](https://github.com/frdmu/LeetCode/tree/master/Greedy_algorithm)| 8 ||
+|7| [Greedy_algorithm](https://github.com/frdmu/LeetCode/tree/master/Greedy_algorithm)| 9 ||
 |8| [HashTable](https://github.com/frdmu/LeetCode/tree/master/HashTable)| 4 ||
 |9| [Heap](https://github.com/frdmu/LeetCode/tree/master/heap) | 2 ||
 |10| [List](https://github.com/frdmu/LeetCode/tree/master/List)| 8 |new a dummy head node|
@@ -37,7 +37,7 @@ LeetCode
 |16| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 31 ||
 |17|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|11|sorted array, fast and slow pointer|
 |18|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
-|Sum|:point_right::point_right::point_right::point_right:|140:wave:||
+|Sum|:point_right::point_right::point_right::point_right:|141:wave:||
 
 ### Useful template
 - [Divide&conquer: Merge_sort, Qucik_sort](https://github.com/frdmu/LeetCode/tree/master/Template)
