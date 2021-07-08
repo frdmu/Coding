@@ -1,6 +1,9 @@
 LeetCode
 ========
-
+### Content
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|560|[Subarray Sum Equals K](https://github.com/frdmu/LeetCode/issues/1)|```Prefix Sum``` ```Hash Table```|Medium|
 ###  Useful functions
 |STL| Func | Description | Lib |
 | ----- | ----- | ----- | ------ |
@@ -54,4 +57,6 @@ LeetCode
 |[239. Sliding Window Maximum(Monotonous queue)](https://leetcode-cn.com/problems/sliding-window-maximum/)|
 
 ### Refer
-https://github.com/youngyangyang04/leetcode-master
+- https://github.com/youngyangyang04/leetcode-master
+- https://github.com/grandyang/leetcode
+
