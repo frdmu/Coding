@@ -3,6 +3,7 @@ LeetCode
 ### Content
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|930|[Binary Subarrays With Sum](https://github.com/frdmu/LeetCode/issues/2)|```Prefix Sum``` ```Hash Table```|Medium|
 |560|[Subarray Sum Equals K](https://github.com/frdmu/LeetCode/issues/1)|```Prefix Sum``` ```Hash Table```|Medium|
 ###  Useful functions
 |STL| Func | Description | Lib |
@@ -40,7 +41,7 @@ LeetCode
 |16| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 31 ||
 |17|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|11|sorted array, fast and slow pointer|
 |18|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
-|Sum|:point_right::point_right::point_right::point_right:|148:wave:||
+|Sum|:point_right::point_right::point_right::point_right:|149:wave:||
 
 ### Useful template
 - [Divide&conquer: Merge_sort, Qucik_sort](https://github.com/frdmu/LeetCode/tree/master/Template)
