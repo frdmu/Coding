@@ -1,11 +1,16 @@
-LeetCode
+LeetCode 
 ========
-### Content
+:point_right::point_right:150
+### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |930|[Binary Subarrays With Sum](https://github.com/frdmu/LeetCode/issues/2)|```Prefix Sum``` ```Hash Table```|Medium|
 |560|[Subarray Sum Equals K](https://github.com/frdmu/LeetCode/issues/1)|```Prefix Sum``` ```Hash Table```|Medium|
-###  Useful functions
+### 剑指 Offer 
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|37|[序列化二叉树](https://github.com/frdmu/LeetCode/issues/3)|```Level Order``` ```simulation```|Hard|
+###  Useful Functions
 |STL| Func | Description | Lib |
 | ----- | ----- | ----- | ------ |
 |string|int isdigit(char ch)|isdigit('2')| \<cstdio\> |
@@ -20,7 +25,7 @@ LeetCode
 |vector|vec.emplace_back(ele)|similar to push_back(ele)|\<vector\>|
 |-|reverse(vec.begin(), vec.end())|-|\<algorithm\>|
 |unordered_set|insert(), find()|unordered_set<int> tmp(vec.begin(), vec.end())|\<unordered_set\>|
-### The number of various types of questions
+### Class
 | # | Type | Quantity |Feature|
 |---|---|---|---|
 |1| [Array](https://github.com/frdmu/LeetCode/tree/master/Array) | 9 |binary search, slicing window, fast and slow pointer, simulate|
@@ -41,7 +46,6 @@ LeetCode
 |16| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 31 ||
 |17|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|11|sorted array, fast and slow pointer|
 |18|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
-|Sum|:point_right::point_right::point_right::point_right:|149:wave:||
 
 ### Useful template
 - [Divide&conquer: Merge_sort, Qucik_sort](https://github.com/frdmu/LeetCode/tree/master/Template)
