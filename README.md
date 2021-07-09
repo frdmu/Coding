@@ -1,6 +1,6 @@
 LeetCode 
 ========
-:point_right::point_right:150
+:point_right::point_right:151
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -9,7 +9,11 @@ LeetCode
 ### 剑指 Offer 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|37|[序列化二叉树](https://github.com/frdmu/LeetCode/issues/3)|```Level Order``` ```simulation```|Hard|
+|37|[序列化二叉树](https://github.com/frdmu/LeetCode/issues/3)|```Level Order``` ```Simulation```|Hard|
+### 面试题
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|17.10|[主要元素](https://github.com/frdmu/LeetCode/issues/4)|```Moore Vote```|Simple| 
 ###  Useful Functions
 |STL| Func | Description | Lib |
 | ----- | ----- | ----- | ------ |
