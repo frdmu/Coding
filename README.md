@@ -1,5 +1,4 @@
-# Total 151
-## Problem List
+## Problem List (151)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
