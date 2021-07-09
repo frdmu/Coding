@@ -1,6 +1,5 @@
-LeetCode 
-========
-:point_right::point_right:151
+# Total 151
+## Problem List
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -14,21 +13,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |17.10|[主要元素](https://github.com/frdmu/LeetCode/issues/4)|```Moore Vote```|Simple| 
-###  Useful Functions
-|STL| Func | Description | Lib |
-| ----- | ----- | ----- | ------ |
-|string|int isdigit(char ch)|isdigit('2')| \<cstdio\> |
-|string|string substr(int pos, int len)|s.substr(0, 5))|\<string\>|
-|string|void resize(int n)|s.resize(n))|\<string\>|
-|string|int stoi("22")|string to int|\<string\>|
-|string|empty(), back(), push_back(), pop_back()|just like a stack|\<string\>|
-|map|insert(x)|element traversal only via the iterator:\*it|\<map\>|
-|map|iterator find(key)|mp.find(key)|\<map\>|
-|vector|vec.push_back(vector\<int\>{1, 2, 3})|vector\<vector\<int\> \> vec|\<vector\>|
-|vector|vec.assign(a.begin(), a.begin()+k)|copy data from a to vec|\<vector\>|
-|vector|vec.emplace_back(ele)|similar to push_back(ele)|\<vector\>|
-|-|reverse(vec.begin(), vec.end())|-|\<algorithm\>|
-|unordered_set|insert(), find()|unordered_set<int> tmp(vec.begin(), vec.end())|\<unordered_set\>|
+
 ### Class
 | # | Type | Quantity |Feature|
 |---|---|---|---|
@@ -50,6 +35,22 @@ LeetCode
 |16| [Tree](https://github.com/frdmu/LeetCode/tree/master/Tree) | 31 ||
 |17|[Two pointers](https://github.com/frdmu/LeetCode/tree/master/Two_pointers)|11|sorted array, fast and slow pointer|
 |18|[Nowcoder](https://github.com/frdmu/LeetCode/tree/master/Nowcoder)| 1 ||
+## Notes
+###  Useful Functions
+|STL| Func | Description | Lib |
+| ----- | ----- | ----- | ------ |
+|string|int isdigit(char ch)|isdigit('2')| \<cstdio\> |
+|string|string substr(int pos, int len)|s.substr(0, 5))|\<string\>|
+|string|void resize(int n)|s.resize(n))|\<string\>|
+|string|int stoi("22")|string to int|\<string\>|
+|string|empty(), back(), push_back(), pop_back()|just like a stack|\<string\>|
+|map|insert(x)|element traversal only via the iterator:\*it|\<map\>|
+|map|iterator find(key)|mp.find(key)|\<map\>|
+|vector|vec.push_back(vector\<int\>{1, 2, 3})|vector\<vector\<int\> \> vec|\<vector\>|
+|vector|vec.assign(a.begin(), a.begin()+k)|copy data from a to vec|\<vector\>|
+|vector|vec.emplace_back(ele)|similar to push_back(ele)|\<vector\>|
+|-|reverse(vec.begin(), vec.end())|-|\<algorithm\>|
+|unordered_set|insert(), find()|unordered_set<int> tmp(vec.begin(), vec.end())|\<unordered_set\>|
 
 ### Useful template
 - [Divide&conquer: Merge_sort, Qucik_sort](https://github.com/frdmu/LeetCode/tree/master/Template)
@@ -65,7 +66,7 @@ LeetCode
 |[347.Top K Frequent Elements(Heap)](https://leetcode-cn.com/problems/top-k-frequent-elements/)|
 |[239. Sliding Window Maximum(Monotonous queue)](https://leetcode-cn.com/problems/sliding-window-maximum/)|
 
-### Refer
+## Refer
 - https://github.com/youngyangyang04/leetcode-master
 - https://github.com/grandyang/leetcode
 
