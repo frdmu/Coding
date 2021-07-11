@@ -1,9 +1,10 @@
-## Problem List (152)
+## Problem List (153)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |930|[Binary Subarrays With Sum](https://github.com/frdmu/LeetCode/issues/2)|```Prefix Sum``` ```Hash Table```|Medium|
 |560|[Subarray Sum Equals K](https://github.com/frdmu/LeetCode/issues/1)|```Prefix Sum``` ```Hash Table```|Medium|
+|274|[H-Index](https://github.com/frdmu/LeetCode/issues/6)|```Sort``` ```Simulation```|Medium|
 ### 剑指 Offer 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
