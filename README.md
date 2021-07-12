@@ -1,10 +1,11 @@
-## Problem List (156)
+## Problem List (157)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |981|[Time Based Key-Value Store](https://github.com/frdmu/LeetCode/issues/7)|```Hash Table```|Medium|
 |930|[Binary Subarrays With Sum](https://github.com/frdmu/LeetCode/issues/2)|```Prefix Sum``` ```Hash Table```|Medium|
 |560|[Subarray Sum Equals K](https://github.com/frdmu/LeetCode/issues/1)|```Prefix Sum``` ```Hash Table```|Medium|
+|475|[Heaters](https://github.com/frdmu/LeetCode/issues/10)|```Array``` ```Binary Search```|Medium|
 |406|[Queue Reconstruction by Height](https://github.com/frdmu/LeetCode/issues/8)|```Greedy``` ```Sort & Insert```|Medium|
 |349|[Intersection of Two Arrays](https://github.com/frdmu/LeetCode/issues/9)|```Hash Table``` ```Binary Search```|Simple|
 |274|[H-Index](https://github.com/frdmu/LeetCode/issues/6)|```Sort``` ```Simulation```|Medium|
