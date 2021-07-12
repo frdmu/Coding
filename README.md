@@ -1,4 +1,4 @@
-## Problem List (157)
+## Problem List (158)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -7,6 +7,7 @@
 |560|[Subarray Sum Equals K](https://github.com/frdmu/LeetCode/issues/1)|```Prefix Sum``` ```Hash Table```|Medium|
 |475|[Heaters](https://github.com/frdmu/LeetCode/issues/10)|```Array``` ```Binary Search```|Medium|
 |406|[Queue Reconstruction by Height](https://github.com/frdmu/LeetCode/issues/8)|```Greedy``` ```Sort & Insert```|Medium|
+|378|[Kth Smallest Element in a Sorted Matrix](https://github.com/frdmu/LeetCode/issues/11)|```Heap```|Medium|
 |349|[Intersection of Two Arrays](https://github.com/frdmu/LeetCode/issues/9)|```Hash Table``` ```Binary Search```|Simple|
 |274|[H-Index](https://github.com/frdmu/LeetCode/issues/6)|```Sort``` ```Simulation```|Medium|
 
