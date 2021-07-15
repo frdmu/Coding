@@ -2,6 +2,7 @@
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1846|[Maximum Element After Decreasing and Rearranging](https://github.com/frdmu/LeetCode/issues/15)|```Array``` ```Sort```|Medium|
 |1818|[Minimum Absolute Sum Difference](https://github.com/frdmu/LeetCode/issues/14)|```Array``` ```Binary Search```|Medium|
 |981|[Time Based Key-Value Store](https://github.com/frdmu/LeetCode/issues/7)|```Hash Table```|Medium|
 |930|[Binary Subarrays With Sum](https://github.com/frdmu/LeetCode/issues/2)|```Prefix Sum``` ```Hash Table```|Medium|
