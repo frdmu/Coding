@@ -1,4 +1,4 @@
-## Problem List (163)
+## Problem List (164)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -15,6 +15,7 @@
 |274|[H-Index](https://github.com/frdmu/LeetCode/issues/6)|```Sort``` ```Simulation```|Medium|
 |229|[Majority Element II](https://github.com/frdmu/LeetCode/issues/16)|```Moore Vote```|Medium|
 |218|[The Skyline Problem](https://github.com/frdmu/LeetCode/issues/13)|```Heap``` ```Line Sweep```|Hard|
+|169|[Majority Element](https://github.com/frdmu/LeetCode/issues/17)|```Moore Vote```|Simple|
 
 ### 剑指 Offer 
 | # | Title | Solution | Difficulty |
