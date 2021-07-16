@@ -1,4 +1,4 @@
-## Problem List (164)
+## Problem List (165)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -20,6 +20,7 @@
 ### 剑指 Offer 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|53 - I|[在排序数组中查找数字 I](https://github.com/frdmu/LeetCode/issues/18)|```Binary Search```|Simple|
 |37|[序列化二叉树](https://github.com/frdmu/LeetCode/issues/3)|```Level Order``` ```Simulation```|Hard|
 |09|[用两个栈实现队列](https://github.com/frdmu/LeetCode/issues/5)|```Simulation```|Simple|
 ### 面试题
