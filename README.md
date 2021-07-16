@@ -1,4 +1,4 @@
-## Problem List (165)
+## Problem List (166)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -16,6 +16,7 @@
 |229|[Majority Element II](https://github.com/frdmu/LeetCode/issues/16)|```Moore Vote```|Medium|
 |218|[The Skyline Problem](https://github.com/frdmu/LeetCode/issues/13)|```Heap``` ```Line Sweep```|Hard|
 |169|[Majority Element](https://github.com/frdmu/LeetCode/issues/17)|```Moore Vote```|Simple|
+|34|[Find First and Last Position of Element in Sorted Array](https://github.com/frdmu/LeetCode/issues/19)|```Binary Search```|Medium|
 
 ### 剑指 Offer 
 | # | Title | Solution | Difficulty |
