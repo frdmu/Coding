@@ -1,4 +1,4 @@
-## Problem List (169)
+## Problem List (170)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -31,6 +31,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |17.10|[主要元素](https://github.com/frdmu/LeetCode/issues/4)|```Moore Vote```|Simple| 
+|10.02|[变位词组](https://github.com/frdmu/LeetCode/issues/23)|```Hash Table``` ```Sort```|Medium| 
 
 ### Class
 | # | Type | Quantity |Feature|
