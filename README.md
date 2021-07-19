@@ -1,4 +1,4 @@
-## Problem List (171)
+## Problem List (172)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
