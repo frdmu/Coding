@@ -16,6 +16,7 @@
 |274|[H-Index](https://github.com/frdmu/LeetCode/issues/6)|```Sort``` ```Simulation```|Medium|
 |229|[Majority Element II](https://github.com/frdmu/LeetCode/issues/16)|```Moore Vote```|Medium|
 |218|[The Skyline Problem](https://github.com/frdmu/LeetCode/issues/13)|```Heap``` ```Line Sweep```|Hard|
+|209|[Minimum Size Subarray Sum](https://github.com/frdmu/LeetCode/issues/24)|```Slicing Window``` ```Two Pointers```|Medium|
 |169|[Majority Element](https://github.com/frdmu/LeetCode/issues/17)|```Moore Vote```|Simple|
 |53|[Maximum Subarray](https://github.com/frdmu/LeetCode/issues/22)|```Dynamic Programming```|Simple|
 |34|[Find First and Last Position of Element in Sorted Array](https://github.com/frdmu/LeetCode/issues/19)|```Binary Search```|Medium|
