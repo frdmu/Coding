@@ -1,8 +1,9 @@
-## Problem List (172)
+## Problem List (173)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1898|[Maximum Number of Removable Characters](https://github.com/frdmu/LeetCode/issues/20)|```Binary Search```|Medium|
+|1877|[Minimize Maximum Pair Sum in Array](https://github.com/frdmu/LeetCode/issues/27)|```Sort``` ```Two Pointers```|Medium|
 |1846|[Maximum Element After Decreasing and Rearranging](https://github.com/frdmu/LeetCode/issues/15)|```Array``` ```Sort```|Medium|
 |1838|[Frequency of the Most Frequent Element](https://github.com/frdmu/LeetCode/issues/26)|```Sliding Window```|Medium|
 |1818|[Minimum Absolute Sum Difference](https://github.com/frdmu/LeetCode/issues/14)|```Array``` ```Binary Search```|Medium|
