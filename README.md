@@ -1,4 +1,4 @@
-## Problem List (173)
+## Problem List (174)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -14,6 +14,7 @@
 |406|[Queue Reconstruction by Height](https://github.com/frdmu/LeetCode/issues/8)|```Greedy``` ```Sort & Insert```|Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://github.com/frdmu/LeetCode/issues/11)|```Heap```|Medium|
 |349|[Intersection of Two Arrays](https://github.com/frdmu/LeetCode/issues/9)|```Hash Table``` ```Binary Search```|Simple|
+|300|[Longest Increasing Subsequence](https://github.com/frdmu/LeetCode/issues/28)|```Dynamic Programming```|Medium|
 |275|[H-Index II](https://github.com/frdmu/LeetCode/issues/12)|```Binary Search```|Medium|
 |274|[H-Index](https://github.com/frdmu/LeetCode/issues/6)|```Sort``` ```Simulation```|Medium|
 |229|[Majority Element II](https://github.com/frdmu/LeetCode/issues/16)|```Moore Vote```|Medium|
