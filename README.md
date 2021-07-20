@@ -81,6 +81,7 @@
 - [Search: two_binary](https://github.com/frdmu/LeetCode/tree/master/Template)
 - [Tree: traversa, pathl](https://github.com/frdmu/LeetCode/tree/master/Template)
 - [Sliding Window](https://github.com/frdmu/Coding/blob/master/Post/SlidingWin.md)
+- [Dynamic Programming](https://github.com/frdmu/Coding/blob/master/Post/DynamicPro.md)
 
 ### Hard understand
 |Problem|
