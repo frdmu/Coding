@@ -22,6 +22,7 @@
 |209|[Minimum Size Subarray Sum](https://github.com/frdmu/LeetCode/issues/24)|```Sliding Window``` ```Two Pointers```|Medium|
 |169|[Majority Element](https://github.com/frdmu/LeetCode/issues/17)|```Moore Vote```|Simple|
 |76|[Minimum Window Substring](https://github.com/frdmu/LeetCode/issues/25)|```Hash Table``` ```Sliding Window```|Hard|
+|72|[Edit Distance](https://github.com/frdmu/LeetCode/issues/29)|```Dynamic Programming```|Hard|
 |53|[Maximum Subarray](https://github.com/frdmu/LeetCode/issues/22)|```Dynamic Programming```|Simple|
 |34|[Find First and Last Position of Element in Sorted Array](https://github.com/frdmu/LeetCode/issues/19)|```Binary Search```|Medium|
 
