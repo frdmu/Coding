@@ -1,4 +1,4 @@
-## Problem List (175)
+## Problem List (176)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -21,6 +21,7 @@
 |218|[The Skyline Problem](https://github.com/frdmu/LeetCode/issues/13)|```Heap``` ```Line Sweep```|Hard|
 |209|[Minimum Size Subarray Sum](https://github.com/frdmu/LeetCode/issues/24)|```Sliding Window``` ```Two Pointers```|Medium|
 |169|[Majority Element](https://github.com/frdmu/LeetCode/issues/17)|```Moore Vote```|Simple|
+|160|[Intersection of Two Linked Lists](https://github.com/frdmu/LeetCode/issues/31)|```Two Pointer```|Simple|
 |76|[Minimum Window Substring](https://github.com/frdmu/LeetCode/issues/25)|```Hash Table``` ```Sliding Window```|Hard|
 |72|[Edit Distance](https://github.com/frdmu/LeetCode/issues/29)|```Dynamic Programming```|Hard|
 |53|[Maximum Subarray](https://github.com/frdmu/LeetCode/issues/22)|```Dynamic Programming```|Simple|
