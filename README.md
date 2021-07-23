@@ -1,4 +1,4 @@
-## Problem List (182)
+## Problem List (183)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -36,6 +36,7 @@
 |52|[两个链表的第一个公共节点](https://github.com/frdmu/LeetCode/issues/30)|```Hash Table``` ```Two Pointer```|Simple|
 |42|[连续子数组的最大和](https://github.com/frdmu/LeetCode/issues/21)|```Dynamic Programming```|Simple|
 |37|[序列化二叉树](https://github.com/frdmu/LeetCode/issues/3)|```Level Order``` ```Simulation```|Hard|
+|14 - II|[剪绳子](https://github.com/frdmu/LeetCode/issues/39)|```Greedy```|Medium|
 |14 - I|[剪绳子](https://github.com/frdmu/LeetCode/issues/38)|```Dynamic Programming```|Medium|
 |13|[机器人的运动范围](https://github.com/frdmu/LeetCode/issues/37)|```BFS``` ```DFS```|Medium|
 |12|[矩阵中的路径](https://github.com/frdmu/LeetCode/issues/36)|```Backtracing```|Medium|
