@@ -1,4 +1,4 @@
-## Problem List (178)
+## Problem List (179)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -36,6 +36,7 @@
 |52|[两个链表的第一个公共节点](https://github.com/frdmu/LeetCode/issues/30)|```Hash Table``` ```Two Pointer```|Simple|
 |42|[连续子数组的最大和](https://github.com/frdmu/LeetCode/issues/21)|```Dynamic Programming```|Simple|
 |37|[序列化二叉树](https://github.com/frdmu/LeetCode/issues/3)|```Level Order``` ```Simulation```|Hard|
+|10 - II|[青蛙跳台阶问题](https://github.com/frdmu/LeetCode/issues/35)|```记忆化搜索```|Simple|
 |10 - I|[斐波那契数列](https://github.com/frdmu/LeetCode/issues/34)|```记忆化搜索```|Simple|
 |09|[用两个栈实现队列](https://github.com/frdmu/LeetCode/issues/5)|```Simulation```|Simple|
 ### 面试题
