@@ -25,7 +25,7 @@
 |169|[Majority Element](https://github.com/frdmu/LeetCode/issues/17)|```Moore Vote```|Simple|
 |160|[Intersection of Two Linked Lists](https://github.com/frdmu/LeetCode/issues/31)|```Two Pointer```|Simple|
 |138|[Copy List with Random Pointer](https://github.com/frdmu/LeetCode/issues/32)|```Hash Table``` ```Link List```|Medium|
-|101|[Symmetric Tree](https://github.com/frdmu/LeetCode/issues/44)|```Recursive```|Simple|
+|101|[Symmetric Tree](https://github.com/frdmu/LeetCode/issues/45)|```Binary Tree```|Simple|
 |76|[Minimum Window Substring](https://github.com/frdmu/LeetCode/issues/25)|```Hash Table``` ```Sliding Window```|Hard|
 |72|[Edit Distance](https://github.com/frdmu/LeetCode/issues/29)|```Dynamic Programming```|Hard|
 |53|[Maximum Subarray](https://github.com/frdmu/LeetCode/issues/22)|```Dynamic Programming```|Simple|
