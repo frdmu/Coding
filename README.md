@@ -1,4 +1,4 @@
-## Problem List (193)
+## Problem List (194)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -23,6 +23,7 @@
 |229|[Majority Element II](https://github.com/frdmu/LeetCode/issues/16)|```Moore Vote```|Medium|
 |218|[The Skyline Problem](https://github.com/frdmu/LeetCode/issues/13)|```Heap``` ```Line Sweep```|Hard|
 |209|[Minimum Size Subarray Sum](https://github.com/frdmu/LeetCode/issues/24)|```Sliding Window``` ```Two Pointers```|Medium|
+|191|[Number of 1 Bits](https://github.com/frdmu/LeetCode/issues/51)|```Bit Manipulation```|Simple|
 |169|[Majority Element](https://github.com/frdmu/LeetCode/issues/17)|```Moore Vote```|Simple|
 |160|[Intersection of Two Linked Lists](https://github.com/frdmu/LeetCode/issues/31)|```Two Pointer```|Simple|
 |138|[Copy List with Random Pointer](https://github.com/frdmu/LeetCode/issues/32)|```Hash Table``` ```Link List```|Medium|
