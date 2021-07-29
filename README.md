@@ -1,4 +1,4 @@
-## Problem List (189)
+## Problem List (190)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -43,6 +43,7 @@
 |27|[二叉树的镜像](https://github.com/frdmu/LeetCode/issues/43)|```Tree Treversal```|Simple|
 |26|[树的子结构](https://github.com/frdmu/LeetCode/issues/42)|```Level Order``` ```Recursive```|Medium|
 |25|[合并两个排序的链表](https://github.com/frdmu/LeetCode/issues/40)|```Two Pointers```|Simple|
+|20|[表示数值的字符串](https://github.com/frdmu/LeetCode/issues/47)|```String``` ```State Machine```|Medium|
 |14 - II|[剪绳子](https://github.com/frdmu/LeetCode/issues/39)|```Greedy```|Medium|
 |14 - I|[剪绳子](https://github.com/frdmu/LeetCode/issues/38)|```Dynamic Programming```|Medium|
 |13|[机器人的运动范围](https://github.com/frdmu/LeetCode/issues/37)|```BFS``` ```DFS```|Medium|
