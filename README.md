@@ -1,4 +1,4 @@
-## Problem List (195)
+## Problem List (196)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -48,6 +48,7 @@
 |22|[链表中倒数第k个节点](https://github.com/frdmu/LeetCode/issues/49)|```Linklist``` ```Two Pointers```|Simple|
 |21|[调整数组顺序使奇数位于偶数前面](https://github.com/frdmu/LeetCode/issues/48)|```Array``` ```Two Pointers```|Simple|
 |20|[表示数值的字符串](https://github.com/frdmu/LeetCode/issues/47)|```String``` ```State Machine```|Medium|
+|16|[数值的整数次方](https://github.com/frdmu/LeetCode/issues/53)|```Math```|Medium|
 |15|[二进制中1的个数](https://github.com/frdmu/LeetCode/issues/50)|```Math```|Simple|
 |14 - II|[剪绳子](https://github.com/frdmu/LeetCode/issues/39)|```Greedy```|Medium|
 |14 - I|[剪绳子](https://github.com/frdmu/LeetCode/issues/38)|```Dynamic Programming```|Medium|
