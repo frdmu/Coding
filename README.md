@@ -31,6 +31,7 @@
 |76|[Minimum Window Substring](https://github.com/frdmu/LeetCode/issues/25)|```Hash Table``` ```Sliding Window```|Hard|
 |72|[Edit Distance](https://github.com/frdmu/LeetCode/issues/29)|```Dynamic Programming```|Hard|
 |53|[Maximum Subarray](https://github.com/frdmu/LeetCode/issues/22)|```Dynamic Programming```|Simple|
+|50|[Pow(x, n)](https://github.com/frdmu/LeetCode/issues/54)|```Math```|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://github.com/frdmu/LeetCode/issues/19)|```Binary Search```|Medium|
 
 ### 剑指 Offer 
