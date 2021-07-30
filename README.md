@@ -1,4 +1,4 @@
-## Problem List (197)
+## Problem List (198)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -50,6 +50,7 @@
 |22|[链表中倒数第k个节点](https://github.com/frdmu/LeetCode/issues/49)|```Linklist``` ```Two Pointers```|Simple|
 |21|[调整数组顺序使奇数位于偶数前面](https://github.com/frdmu/LeetCode/issues/48)|```Array``` ```Two Pointers```|Simple|
 |20|[表示数值的字符串](https://github.com/frdmu/LeetCode/issues/47)|```String``` ```State Machine```|Medium|
+|18|[删除链表的节点](https://github.com/frdmu/LeetCode/issues/56)|```Dummy Node``` ```Linklist```|Simple|
 |16|[数值的整数次方](https://github.com/frdmu/LeetCode/issues/53)|```Math```|Medium|
 |15|[二进制中1的个数](https://github.com/frdmu/LeetCode/issues/50)|```Math```|Simple|
 |14 - II|[剪绳子](https://github.com/frdmu/LeetCode/issues/39)|```Greedy```|Medium|
