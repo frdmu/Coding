@@ -1,4 +1,4 @@
-## Problem List (200)
+## Problem List (201)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -8,6 +8,7 @@
 |1846|[Maximum Element After Decreasing and Rearranging](https://github.com/frdmu/LeetCode/issues/15)|```Array``` ```Sort```|Medium|
 |1838|[Frequency of the Most Frequent Element](https://github.com/frdmu/LeetCode/issues/26)|```Sliding Window```|Medium|
 |1818|[Minimum Absolute Sum Difference](https://github.com/frdmu/LeetCode/issues/14)|```Array``` ```Binary Search```|Medium|
+|1337|[The K Weakest Rows in a Matrix](https://github.com/frdmu/LeetCode/issues/59)|```Binary Search``` ```Heap```|Simple|
 |1104|[Path In Zigzag Labelled Binary Tree](https://github.com/frdmu/LeetCode/issues/46)|```Array``` ```Binary Tree```|Medium|
 |987|[Vertical Order Traversal of a Binary Tree](https://github.com/frdmu/LeetCode/issues/57)|```Sort``` ```Tree Traversal```|Hard|
 |981|[Time Based Key-Value Store](https://github.com/frdmu/LeetCode/issues/7)|```Hash Table```|Medium|
