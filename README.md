@@ -1,4 +1,4 @@
-## Problem List (198)
+## Problem List (199)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -9,6 +9,7 @@
 |1838|[Frequency of the Most Frequent Element](https://github.com/frdmu/LeetCode/issues/26)|```Sliding Window```|Medium|
 |1818|[Minimum Absolute Sum Difference](https://github.com/frdmu/LeetCode/issues/14)|```Array``` ```Binary Search```|Medium|
 |1104|[Path In Zigzag Labelled Binary Tree](https://github.com/frdmu/LeetCode/issues/46)|```Array``` ```Binary Tree```|Medium|
+|987|[Vertical Order Traversal of a Binary Tree](https://github.com/frdmu/LeetCode/issues/57)|```Sort``` ```Tree Traversal```|Hard|
 |981|[Time Based Key-Value Store](https://github.com/frdmu/LeetCode/issues/7)|```Hash Table```|Medium|
 |930|[Binary Subarrays With Sum](https://github.com/frdmu/LeetCode/issues/2)|```Prefix Sum``` ```Hash Table```|Medium|
 |863|[All Nodes Distance K in Binary Tree](https://github.com/frdmu/LeetCode/issues/41)|```DFS``` ```BFS```|Medium|
