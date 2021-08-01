@@ -1,4 +1,4 @@
-## Problem List (202)
+## Problem List (203)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -44,6 +44,7 @@
 |52|[两个链表的第一个公共节点](https://github.com/frdmu/LeetCode/issues/30)|```Hash Table``` ```Two Pointer```|Simple|
 |42|[连续子数组的最大和](https://github.com/frdmu/LeetCode/issues/21)|```Dynamic Programming```|Simple|
 |37|[序列化二叉树](https://github.com/frdmu/LeetCode/issues/3)|```Level Order``` ```Simulation```|Hard|
+|31|[栈的压入、弹出序列](https://github.com/frdmu/LeetCode/issues/61)|```Stack``` ```Simulation```|Medium|
 |30|[包含min函数的栈](https://github.com/frdmu/LeetCode/issues/60)|```Design``` ```Two Stacks```|Simple|
 |29|[顺时针打印矩阵](https://github.com/frdmu/LeetCode/issues/52)|```Simulation```|Simple|
 |28|[对称的二叉树](https://github.com/frdmu/LeetCode/issues/44)|```Tree Treversal```|Simple|
