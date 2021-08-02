@@ -1,4 +1,4 @@
-## Problem List (204)
+## Problem List (205)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -14,6 +14,7 @@
 |981|[Time Based Key-Value Store](https://github.com/frdmu/LeetCode/issues/7)|```Hash Table```|Medium|
 |930|[Binary Subarrays With Sum](https://github.com/frdmu/LeetCode/issues/2)|```Prefix Sum``` ```Hash Table```|Medium|
 |863|[All Nodes Distance K in Binary Tree](https://github.com/frdmu/LeetCode/issues/41)|```DFS``` ```BFS```|Medium|
+|743|[Network Delay Time](https://github.com/frdmu/LeetCode/issues/63)|```DisjKstra``` ```Floyd```|Medium|
 |560|[Subarray Sum Equals K](https://github.com/frdmu/LeetCode/issues/1)|```Prefix Sum``` ```Hash Table```|Medium|
 |475|[Heaters](https://github.com/frdmu/LeetCode/issues/10)|```Array``` ```Binary Search```|Medium|
 |406|[Queue Reconstruction by Height](https://github.com/frdmu/LeetCode/issues/8)|```Greedy``` ```Sort & Insert```|Medium|
@@ -109,6 +110,7 @@
 |vector|vec.emplace_back(ele)|similar to push_back(ele)|\<vector\>|
 |-|reverse(vec.begin(), vec.end())|-|\<algorithm\>|
 |unordered_set|insert(), find()|unordered_set<int> tmp(vec.begin(), vec.end())|\<unordered_set\>|
+|-|*max_element(vec.begin(), vec.end())|-|-|
 
 ### Useful template
 - [Divide&conquer: Merge_sort, Qucik_sort](https://github.com/frdmu/LeetCode/tree/master/Template)
@@ -117,7 +119,7 @@
 - [Tree: traversa, pathl](https://github.com/frdmu/LeetCode/tree/master/Template)
 - [Sliding Window](https://github.com/frdmu/Coding/blob/master/Post/SlidingWin.md)
 - [Dynamic Programming](https://github.com/frdmu/Coding/blob/master/Post/DynamicPro.md)
-
+- [DisjKstra&Floyd](https://github.com/frdmu/LeetCode/issues/63)
 ### Hard understand
 |Problem|
 |--|
