@@ -1,4 +1,4 @@
-## Problem List (207)
+## Problem List (208)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -47,6 +47,7 @@
 |42|[连续子数组的最大和](https://github.com/frdmu/LeetCode/issues/21)|```Dynamic Programming```|Simple|
 |38|[字符串的排列](https://github.com/frdmu/LeetCode/issues/66)|```Backtracing```|Medium|
 |37|[序列化二叉树](https://github.com/frdmu/LeetCode/issues/3)|```Level Order``` ```Simulation```|Hard|
+|36|[二叉搜索树与双向链表](https://github.com/frdmu/LeetCode/issues/67)|```inOrder```|Medium|
 |35|[复杂链表的复制](https://github.com/frdmu/LeetCode/issues/64)|```Linklist``` ```HashTable``` ```Recursive```|Medium|
 |33|[二叉搜索树的后序遍历序列](https://github.com/frdmu/LeetCode/issues/62)|```Binary Serach Tree```|Medium|
 |31|[栈的压入、弹出序列](https://github.com/frdmu/LeetCode/issues/61)|```Stack``` ```Simulation```|Medium|
