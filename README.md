@@ -1,4 +1,4 @@
-## Problem List (209)
+## Problem List (210)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -15,6 +15,7 @@
 |930|[Binary Subarrays With Sum](https://github.com/frdmu/LeetCode/issues/2)|```Prefix Sum``` ```Hash Table```|Medium|
 |863|[All Nodes Distance K in Binary Tree](https://github.com/frdmu/LeetCode/issues/41)|```DFS``` ```BFS```|Medium|
 |743|[Network Delay Time](https://github.com/frdmu/LeetCode/issues/63)|```DisjKstra``` ```Floyd```|Medium|
+|611|[Valid Triangle Number](https://github.com/frdmu/LeetCode/issues/69)|```Array``` ```Binary Search``` ```Sort```|Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://github.com/frdmu/LeetCode/issues/65)|```Array``` ```Sort```|Medium|
 |560|[Subarray Sum Equals K](https://github.com/frdmu/LeetCode/issues/1)|```Prefix Sum``` ```Hash Table```|Medium|
 |475|[Heaters](https://github.com/frdmu/LeetCode/issues/10)|```Array``` ```Binary Search```|Medium|
