@@ -1,4 +1,4 @@
-## Problem List (213)
+## Problem List (214)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -47,6 +47,7 @@
 |---| ----- | -------- | ---------- |
 |53 - I|[在排序数组中查找数字 I](https://github.com/frdmu/LeetCode/issues/18)|```Binary Search```|Simple|
 |52|[两个链表的第一个公共节点](https://github.com/frdmu/LeetCode/issues/30)|```Hash Table``` ```Two Pointer```|Simple|
+|48|[最长不含重复字符的子字符串](https://github.com/frdmu/LeetCode/issues/73)|```Hash Table``` ```Slicing Window```|Medium|
 |45|[把数组排成最小的数](https://github.com/frdmu/LeetCode/issues/72)|```Sort```|Medium|
 |42|[连续子数组的最大和](https://github.com/frdmu/LeetCode/issues/21)|```Dynamic Programming```|Simple|
 |40|[最小的k个数](https://github.com/frdmu/LeetCode/issues/68)|```Array``` ```Sort```|Simple|
