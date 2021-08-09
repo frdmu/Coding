@@ -1,4 +1,4 @@
-## Problem List (214)
+## Problem List (215)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -27,6 +27,7 @@
 |300|[Longest Increasing Subsequence](https://github.com/frdmu/LeetCode/issues/28)|```Dynamic Programming```|Medium|
 |275|[H-Index II](https://github.com/frdmu/LeetCode/issues/12)|```Binary Search```|Medium|
 |274|[H-Index](https://github.com/frdmu/LeetCode/issues/6)|```Sort``` ```Simulation```|Medium|
+|264|[Ugly Number II](https://github.com/frdmu/LeetCode/issues/74)|```Heap``` ```Hash Table``` ```Dynamic Programming```|Medium|
 |229|[Majority Element II](https://github.com/frdmu/LeetCode/issues/16)|```Moore Vote```|Medium|
 |218|[The Skyline Problem](https://github.com/frdmu/LeetCode/issues/13)|```Heap``` ```Line Sweep```|Hard|
 |209|[Minimum Size Subarray Sum](https://github.com/frdmu/LeetCode/issues/24)|```Sliding Window``` ```Two Pointers```|Medium|
