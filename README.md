@@ -1,4 +1,4 @@
-## Problem List (220)
+## Problem List (221)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -21,6 +21,7 @@
 |581|[Shortest Unsorted Continuous Subarray](https://github.com/frdmu/LeetCode/issues/65)|```Array``` ```Sort```|Medium|
 |560|[Subarray Sum Equals K](https://github.com/frdmu/LeetCode/issues/1)|```Prefix Sum``` ```Hash Table```|Medium|
 |475|[Heaters](https://github.com/frdmu/LeetCode/issues/10)|```Array``` ```Binary Search```|Medium|
+|446|[Arithmetic Slices II - Subsequence](https://github.com/frdmu/LeetCode/issues/80)|```DP```|Hard|
 |413|[Arithmetic Slices](https://github.com/frdmu/LeetCode/issues/78)|```Prefix Sum``` ```Slicing Window```|Medium|
 |406|[Queue Reconstruction by Height](https://github.com/frdmu/LeetCode/issues/8)|```Greedy``` ```Sort & Insert```|Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://github.com/frdmu/LeetCode/issues/11)|```Heap```|Medium|
