@@ -1,4 +1,4 @@
-## Problem List (222)
+## Problem List (223)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -49,6 +49,7 @@
 ### 剑指 Offer 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|56 - I|[ 数组中数字出现的次数](https://github.com/frdmu/LeetCode/issues/82)|```Bit Manipulation```|Medium|
 |55 - I|[二叉树的深度](https://github.com/frdmu/LeetCode/issues/81)|```BFS``` ```DFS```|Simple|
 |53 - I|[在排序数组中查找数字 I](https://github.com/frdmu/LeetCode/issues/18)|```Binary Search```|Simple|
 |52|[两个链表的第一个公共节点](https://github.com/frdmu/LeetCode/issues/30)|```Hash Table``` ```Two Pointer```|Simple|
