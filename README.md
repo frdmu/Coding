@@ -1,4 +1,4 @@
-## Problem List (224)
+## Problem List (225)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -49,6 +49,7 @@
 ### 剑指 Offer 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|59 - I|[滑动窗口的最大值](https://github.com/frdmu/LeetCode/issues/84)|```Sliding Window``` ```Monotonic Queue``` ```Heap```|Hard|
 |56 - II|[数组中数字出现的次数 II](https://github.com/frdmu/LeetCode/issues/83)|```Bit Manipulation```|Medium|
 |56 - I|[数组中数字出现的次数](https://github.com/frdmu/LeetCode/issues/82)|```Bit Manipulation```|Medium|
 |55 - I|[二叉树的深度](https://github.com/frdmu/LeetCode/issues/81)|```BFS``` ```DFS```|Simple|
