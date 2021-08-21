@@ -1,4 +1,4 @@
-## Problem List (228)
+## Problem List (229)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -101,6 +101,7 @@
 | # | Title | Difficulty |
 |---| ----- | ---------- |
 |121|[Best Time to Buy and Sell Stock](https://github.com/frdmu/LeetCode/issues/87)|Simple|
+|122|[est Time to Buy and Sell Stock II](https://github.com/frdmu/LeetCode/issues/88)|Simple|
 
 ### Class
 | # | Type | Quantity |Feature|
