@@ -1,4 +1,4 @@
-## Problem List (227)
+## Problem List (228)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -95,6 +95,12 @@
 |---| ----- | -------- | ---------- |
 |17.10|[主要元素](https://github.com/frdmu/LeetCode/issues/4)|```Moore Vote```|Simple| 
 |10.02|[变位词组](https://github.com/frdmu/LeetCode/issues/23)|```Hash Table``` ```Sort```|Medium| 
+
+### 动态规划
+#### 股票问题
+| # | Title | Difficulty |
+|---| ----- | ---------- |
+|121|[Best Time to Buy and Sell Stock](https://github.com/frdmu/LeetCode/issues/87)|Simple|
 
 ### Class
 | # | Type | Quantity |Feature|
