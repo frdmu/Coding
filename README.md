@@ -1,4 +1,4 @@
-## Problem List (230)
+## Problem List (231)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -103,6 +103,11 @@
 |121|[Best Time to Buy and Sell Stock](https://github.com/frdmu/LeetCode/issues/87)|Simple|
 |122|[Best Time to Buy and Sell Stock II](https://github.com/frdmu/LeetCode/issues/88)|Simple|
 |123|[Best Time to Buy and Sell Stock III](https://github.com/frdmu/LeetCode/issues/89)|Hard|
+
+### NowCoder
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|华为机试题|[扑克牌大小](https://github.com/frdmu/LeetCode/issues/90)|```String```|Medium| 
 
 ### Class
 | # | Type | Quantity |Feature|
