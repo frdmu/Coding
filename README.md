@@ -1,4 +1,4 @@
-## Problem List (231)
+## Problem List (232)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -108,7 +108,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |华为机试题|[扑克牌大小](https://github.com/frdmu/LeetCode/issues/90)|```String```|Medium| 
-
+|华为机试题|[简单错误记录](https://github.com/frdmu/LeetCode/issues/91)|```String```|Medium| 
 ### Class
 | # | Type | Quantity |Feature|
 |---|---|---|---|
