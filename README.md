@@ -1,4 +1,4 @@
-## Problem List (233)
+## Problem List (234)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -38,6 +38,7 @@
 |171|[Excel Sheet Column Number](https://github.com/frdmu/LeetCode/issues/55)|```Math``` ```String```|Simple|
 |169|[Majority Element](https://github.com/frdmu/LeetCode/issues/17)|```Moore Vote```|Simple|
 |160|[Intersection of Two Linked Lists](https://github.com/frdmu/LeetCode/issues/31)|```Two Pointer```|Simple|
+|143|[Reorder List](https://github.com/frdmu/LeetCode/issues/93)|```Link List``` ```Fast and slow pointers```|Medium|
 |138|[Copy List with Random Pointer](https://github.com/frdmu/LeetCode/issues/32)|```Hash Table``` ```Link List```|Medium|
 |101|[Symmetric Tree](https://github.com/frdmu/LeetCode/issues/45)|```Binary Tree```|Simple|
 |76|[Minimum Window Substring](https://github.com/frdmu/LeetCode/issues/25)|```Hash Table``` ```Sliding Window```|Hard|
