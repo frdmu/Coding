@@ -53,3 +53,24 @@ dp[i][w] 表示：对于前 i 个物品，当前背包的容量为 w 时，这�
 首先，由于 i 是从 1 开始的，所以 val 和 wt 的索引是 i-1 时表示第 i 个物品的价值和重量。
 
 而 dp[i-1][w - wt[i-1]] 也很好理解：你如果装了第 i 个物品，就要寻求剩余重量 w - wt[i-1] 限制下的最大价值，加上第 i 个物品的价值 val[i-1]。
+
+
+### [股票买卖问题](https://github.com/labuladong/fuckingalgorithm/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%B3%BB%E5%88%97/%E5%9B%A2%E7%81%AD%E8%82%A1%E7%A5%A8%E9%97%AE%E9%A2%98.md)
+
+- 数组定义：
+```c++
+dp[i][k][0 or 1]           0 <= i < n,  0 < k <= K
+例如 dp[2][3][0]表示  第2天没有持有股票，至此最多进行3次交易的情况下的最大利润。
+```
+- 状态转移方程：
+
+![1](https://user-images.githubusercontent.com/50523407/132189002-c1176727-1125-4270-a0e1-2127c3c8cfc9.png)
+
+```c++
+dp[i][k][0] = max(dp[i-1][k][0], dp[i-1][k][1] + prices[i]);
+dp[i][k][1] = max(dp[i-1][k][1], dp[i-1][k-1][0] - prices[i]);
+
+base case:
+dp[-1][k][0] = dp[i][0][0] = 0;
+dp[-1][k][1] = dp[i][0][1] = -inf;
+```
