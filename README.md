@@ -156,7 +156,7 @@
 - [Divide&conquer: Merge_sort, Qucik_sort](https://github.com/frdmu/LeetCode/tree/master/Template)
 - [Backtracing: dfs, Backtracing](https://github.com/frdmu/LeetCode/tree/master/Template)
 - [Search: two_binary](https://github.com/frdmu/LeetCode/tree/master/Template)
-- [Tree: traversa, pathl](https://github.com/frdmu/LeetCode/tree/master/Template)
+- [Tree: traversa, path](https://github.com/frdmu/LeetCode/tree/master/Template)
 - [Sliding Window](https://github.com/frdmu/Coding/blob/master/Post/SlidingWin.md)
 - [Dynamic Programming](https://github.com/frdmu/Coding/blob/master/Post/DynamicPro.md)
 - [DisjKstra&Floyd](https://github.com/frdmu/LeetCode/issues/63)
