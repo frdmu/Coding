@@ -1,4 +1,4 @@
-## Problem List (236)
+## Problem List (237)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -96,6 +96,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |17.10|[主要元素](https://github.com/frdmu/LeetCode/issues/4)|```Moore Vote```|Simple| 
+|16.25|[LRU 缓存](https://github.com/frdmu/LeetCode/issues/96)|```Hash Table``` ```Linked List```|Medium| 
 |10.02|[变位词组](https://github.com/frdmu/LeetCode/issues/23)|```Hash Table``` ```Sort```|Medium| 
 
 ### 动态规划
