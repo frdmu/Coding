@@ -1,4 +1,4 @@
-## Problem List (239)
+## Problem List (240)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -108,6 +108,7 @@
 |123|[Best Time to Buy and Sell Stock III](https://github.com/frdmu/LeetCode/issues/89)|Hard|
 |188|[Best Time to Buy and Sell Stock IV](https://github.com/frdmu/LeetCode/issues/97)|Hard|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://github.com/frdmu/LeetCode/issues/98)|Medium|
+|714|[Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/frdmu/LeetCode/issues/99)|Medium|
 
 ### NowCoder
 | # | Title | Solution | Difficulty |
