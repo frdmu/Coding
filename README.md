@@ -27,7 +27,7 @@
 |378|[Kth Smallest Element in a Sorted Matrix](https://github.com/frdmu/LeetCode/issues/11)|```Heap```|Medium|
 |349|[Intersection of Two Arrays](https://github.com/frdmu/LeetCode/issues/9)|```Hash Table``` ```Binary Search```|Simple|
 |313|[Super Ugly Number](https://github.com/frdmu/LeetCode/issues/75)|```Heap``` ```Hash Table``` ```Many Pointers```|Medium|
-|300|[Longest Increasing Subsequence](https://github.com/frdmu/LeetCode/issues/28)|```Dynamic Programming```|Medium|
+|300|[Longest Increasing Subsequence](https://github.com/frdmu/LeetCode/issues/28)|```Binary Search``` ```Dynamic Programming```|Medium|
 |275|[H-Index II](https://github.com/frdmu/LeetCode/issues/12)|```Binary Search```|Medium|
 |274|[H-Index](https://github.com/frdmu/LeetCode/issues/6)|```Sort``` ```Simulation```|Medium|
 |264|[Ugly Number II](https://github.com/frdmu/LeetCode/issues/74)|```Heap``` ```Hash Table``` ```Dynamic Programming```|Medium|
