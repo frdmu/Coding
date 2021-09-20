@@ -14,10 +14,12 @@ for (int l = 2; l <= n; l++) {
 
 ## dp数组的定义方法
 
-### 最长递增子序列
-
-- 最长递增子序列dp[i]: 以nums[i]这个数结尾的最长递增子序列的长度。
-
+### [子序列问题](https://github.com/labuladong/fucking-algorithm/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%B3%BB%E5%88%97/%E5%AD%90%E5%BA%8F%E5%88%97%E9%97%AE%E9%A2%98%E6%A8%A1%E6%9D%BF.md)
+dp数组通常有两种定义方式，一维和二维，典型的例子如下所示：
+```c++
+1. 最长递增子序列dp[i]: 以nums[i]这个元素结尾的最长递增子序列的长度。
+2. 最长回文子序列dp[i][j]: 子串s[i...j]的最长回文子序列长度。
+```
 ### [0-1背包](https://github.com/labuladong/fucking-algorithm/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%B3%BB%E5%88%97/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
 
 - 0-1背包dp[i][w]: 前i个物品，放进容量是W的背包，可以装的最大价值。
