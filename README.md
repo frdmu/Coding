@@ -1,4 +1,4 @@
-## Problem List (240)
+## Problem List (241)
 ### Leet Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -17,6 +17,7 @@
 |847|[Shortest Path Visiting All Nodes](https://github.com/frdmu/LeetCode/issues/71)|```Bitmask``` ```BFS```|Hard|
 |802|[Find Eventual Safe States](https://github.com/frdmu/LeetCode/issues/70)|```Topological Sort```|Medium|
 |743|[Network Delay Time](https://github.com/frdmu/LeetCode/issues/63)|```DisjKstra``` ```Floyd```|Medium|
+|673|[Number of Longest Increasing Subsequence](https://github.com/frdmu/LeetCode/issues/100)|```Dynamic Programming```|Medium|
 |611|[Valid Triangle Number](https://github.com/frdmu/LeetCode/issues/69)|```Array``` ```Binary Search``` ```Sort```|Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://github.com/frdmu/LeetCode/issues/65)|```Array``` ```Sort```|Medium|
 |560|[Subarray Sum Equals K](https://github.com/frdmu/LeetCode/issues/1)|```Prefix Sum``` ```Hash Table```|Medium|
