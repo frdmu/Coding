@@ -20,6 +20,15 @@ dp数组通常有两种定义方式，一维和二维，典型的例子如下所
 1. 最长递增子序列dp[i]: 以nums[i]这个元素结尾的最长递增子序列的长度。
 2. 最长回文子序列dp[i][j]: 子串s[i...j]的最长回文子序列长度。
 ```
+### [打家劫舍问题](https://github.com/labuladong/fucking-algorithm/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%B3%BB%E5%88%97/%E6%8A%A2%E6%88%BF%E5%AD%90.md)
+```
+dp[i]表示从i开始抢劫，所能抢到的最多的钱。
+dp[i] = max(dp[i+1], nums[i] + dp[i+2])
+
+base case:
+0 <= i < n
+dp[n] = dp[n+1] = 0
+```
 ### [0-1背包](https://github.com/labuladong/fucking-algorithm/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%B3%BB%E5%88%97/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
 
 - 0-1背包dp[i][w]: 前i个物品，放进容量是W的背包，可以装的最大价值。
