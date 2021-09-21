@@ -21,7 +21,7 @@ dp数组通常有两种定义方式，一维和二维，典型的例子如下所
 2. 最长回文子序列dp[i][j]: 子串s[i...j]的最长回文子序列长度。
 ```
 ### [打家劫舍问题](https://github.com/labuladong/fucking-algorithm/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%B3%BB%E5%88%97/%E6%8A%A2%E6%88%BF%E5%AD%90.md)
-```
+```c++
 dp[i]表示从i开始抢劫，所能抢到的最多的钱。
 dp[i] = max(dp[i+1], nums[i] + dp[i+2])
 
