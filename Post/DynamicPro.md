@@ -30,7 +30,7 @@ base case:
 dp[n] = dp[n+1] = 0
 ```
 ### 三、背包问题
-#### [0-1背包](https://github.com/labuladong/fucking-algorithm/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%B3%BB%E5%88%97/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
+#### [I 0-1背包](https://github.com/labuladong/fucking-algorithm/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%B3%BB%E5%88%97/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98.md)
 ```c++
 dp[i][w]: 前i个物品，放进容量是W的背包，可以装的最大价值。
 dp[i][w] = max(dp[i-1][w], val[i]+dp[i-1][w-weight[i]])
@@ -38,7 +38,7 @@ dp[i][w] = max(dp[i-1][w], val[i]+dp[i-1][w-weight[i]])
 base case:
 dp[0][...] = dp[...][0] = 0
 ```
-
+经典问题：子集分割问题[[LeetCode] 416. Partition Equal Subset Sum](https://github.com/frdmu/Coding/issues/104)
 ### [四、股票买卖问题](https://github.com/labuladong/fuckingalgorithm/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%B3%BB%E5%88%97/%E5%9B%A2%E7%81%AD%E8%82%A1%E7%A5%A8%E9%97%AE%E9%A2%98.md)
 
 - 数组定义：
