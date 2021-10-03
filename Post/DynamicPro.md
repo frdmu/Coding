@@ -53,7 +53,7 @@ dp[i][k][0 or 1]           0 <= i < n,  0 < k <= K
 ```c++
 dp[i][k][0] = max(dp[i-1][k][0], dp[i-1][k][1] + prices[i]);
 dp[i][k][1] = max(dp[i-1][k][1], dp[i-1][k-1][0] - prices[i]);
-
+0 <= i < n, 0 < k <= K
 base case:
 dp[-1][k][0] = dp[i][0][0] = 0;
 dp[-1][k][1] = dp[i][0][1] = -inf;
