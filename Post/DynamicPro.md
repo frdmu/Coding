@@ -19,6 +19,11 @@ dp数组通常有两种定义方式，一维和二维，典型的例子如下所
 ```c++
 1. 最长递增子序列dp[i]: 以nums[i]这个元素结尾的最长递增子序列的长度。
 2. 最长回文子序列dp[i][j]: 子串s[i...j]的最长回文子序列长度。
+3. 最长公共子序列dp[i][j]: 子符串s1[i...]和s2[j...]的最长公共子序列的长度。
+   if (s1[i] == s2[j])
+       dp[i][j] = 1 + dp[i+1][j+1]
+   else
+       dp[i][j] = max(dp[i][j+1], dp[i+1][j], dp[i+1][j+1])
 ```
 ### [二、打家劫舍问题](https://github.com/labuladong/fucking-algorithm/blob/master/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%B3%BB%E5%88%97/%E6%8A%A2%E6%88%BF%E5%AD%90.md)
 ```c++
